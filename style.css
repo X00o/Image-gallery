@@ -23,3 +23,11 @@
 .gallery img{
     width: 100%;
 }
+.title{
+    font-size:34px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'sans-serif';
+    margin-left: 470px;
+    align-content: center;
+    color: rgba(0, 0, 0, 0.411);
+    justify-content: center;
+}
